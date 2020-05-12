@@ -11,7 +11,7 @@
   Implement Discogs API to display the playlist and tracks.
  </li>
   <li>
-  Save the tracks in database with play_id, title, uri and master id.
+  Save the tracks in database with playlist_id, title, uri and master id.
  </li>
 
 ## Technologies and Web Tools
