@@ -16,6 +16,12 @@
 
 ## Technologies and Web Tools
     React Js, Node Js, HTML, CSS, Visual Studio Code, Axios, Discog API, Postgres, PgAdmin
+
+## Discog Developer link
+   https://www.discogs.com/developers/
+
+## Access Token
+    XqlZmzNSfaouuXZkCazHxUXPhECkxmamqfeRmuln
  
 ## Setup
 To run this project, install it locally using npm:
