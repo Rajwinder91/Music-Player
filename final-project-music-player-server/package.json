@@ -1,0 +1,16 @@
+{
+  "name": "final-project-music-player-server",
+  "version": "1.0.0",
+  "description": "Music Player Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajwinder Kaur && Mandeep Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^7.14.0"
+  }
+}
