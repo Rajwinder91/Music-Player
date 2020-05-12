@@ -32,3 +32,16 @@ npm start
 node index.js
 ```
 
+## Discogs Connection
+```jsx
+//Doscogs API Credentials
+const API_TOKEN  = "XqlZmzNSfaouuXZkCazHxUXPhECkxmamqfeRmuln"
+const API_URL    = 'https://api.discogs.com/database/search'
+
+var db = new Discogs().database();
+db.getRelease(176126, function(err, data){
+    //console.log(data);
+});
+```
+
+
