@@ -13,7 +13,7 @@
   <li>
   Save the tracks in database with playlist_id, title, uri and master id.
  </li>
-
+</ul>
 ## Technologies and Web Tools
     React Js, Node Js, HTML, CSS, Visual Studio Code, Axios, Discog API, Postgres, PgAdmin
 
